@@ -1,0 +1,30 @@
+html{
+    background-color: #2AF7DF;
+}
+
+
+#reloj{
+    font-family: sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 2px #333 ;
+    color: #fff;
+}
+
+.reloj-contenedor{
+    background-color: #F7CB1E ;
+    text-align: center;
+    padding: 25px;
+    width: 350px;
+    border-radius: 30px;
+    margin: 10% auto 50px auto;
+}
+
+#fecha{
+    letter-spacing: 7px;
+    font-size: 15px;
+    color: #434DF7;
+}
+
+.animar{
+    border: rgb(67, 77, 247 ) 3px solid;
+}
